@@ -69,6 +69,7 @@
   background-repeat: no-repeat;
   background-position: center;
 }
+
 .overlay {
   position: absolute;
   width: 100%;
@@ -149,6 +150,7 @@
   margin-left: 24px;
   text-decoration: none;
 }
+
 .lots-heading {
   margin-top: 180px;
   margin-left: 40px;
@@ -208,7 +210,6 @@
   text-decoration-thickness: 1px;
   text-underline-offset: 3px;
   text-decoration-skip-ink: auto;
-  
 }
 
 .card__text {
