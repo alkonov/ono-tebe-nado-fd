@@ -243,13 +243,15 @@
 }
 
 .about {
+  display: grid;
+  grid-template-columns: 334px 1fr;
   margin: 120px 24px 180px 24px;
   padding-top: 35px;
 }
 
 .about__column {
-  display: grid;
-  grid-template-columns: 334px 1fr;
+  display: flex;
+  justify-content: center;
 }
 
 .about__logo {
